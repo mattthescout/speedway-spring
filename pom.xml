@@ -104,6 +104,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>speedway-spring</finalName>
     </build>
 
 </project>
